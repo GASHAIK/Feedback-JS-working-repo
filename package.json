@@ -18,6 +18,8 @@
     "@angular/platform-browser": "~12.2.0",
     "@angular/platform-browser-dynamic": "~12.2.0",
     "@angular/router": "~12.2.0",
+    "feedback-component": "file:E:/esources/feedback-component/feedback-component-1.0.0.tgz",
+    "feedback-popup": "file:E:/esources/feedback-component/feedback-popup-1.0.0.tgz",
     "rxjs": "~6.6.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
